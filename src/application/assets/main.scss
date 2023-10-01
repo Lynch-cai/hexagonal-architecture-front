@@ -1,0 +1,13 @@
+@import "./bases/all.scss";
+@import "./components/all.scss";
+@import "./templates/all.scss";
+
+html,
+body {
+    margin: 0;
+    background: $grey200;
+}
+
+* {
+    font-family: "Montserrat", sans-serif;
+}
