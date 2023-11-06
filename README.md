@@ -4,7 +4,7 @@ This GitHub repository contains the source code for my front-end project based o
 
 ## Link to the Website 🔗
 
-You can access the website using the following link: [lynch-cai.com/hetic/architecture-hexagonale-front](https://lynch-cai.com/hetic/architecture-hexagonale-front)
+You can access the website using the following link: [lynch-cai.com/hetic/hexagonal-architecture-front](https://lynch-cai.com/hetic/hexagonal-architecture-front)
 
 ## Prerequisites 📋
 
